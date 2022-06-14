@@ -1,4 +1,6 @@
 # हिन्दी गर्व 
 
-Twitter: https://twitter.com/hindigarv
+Web: https://hindigarv.github.io/
+
+Twitter Bot: https://twitter.com/hindigarv
 
